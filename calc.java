@@ -16,6 +16,13 @@ class calc{
          int rem=a/b;
     System.out.println("Division is "+rem);
 
+        System.out.println("Division is "+sum);
+
+    System.out.println("Division is "+diff);
+
+    System.out.println("Division is "+mul);
+
+
     }
     
 }
